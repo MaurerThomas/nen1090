@@ -1,7 +1,7 @@
 <?php
 session_start();
 $errors = '';
-$myemail = 'info@nen1090bank.nl';//<-----Put Your email address here.
+$myemail = 'info@nen1090bank.nl';
 if (empty($_POST['name']) ||
     empty($_POST['email']) ||
     empty($_POST['message'])
