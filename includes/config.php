@@ -15,9 +15,9 @@ date_default_timezone_set('Europe/London');
 
 //database credentials
 define('DBHOST', 'localhost');
-define('DBUSER', 'root');
+define('DBUSER', '****');
 define('DBPASS', "");
-define('DBNAME', 'nen1090');
+define('DBNAME', '****');
 
 //application address
 define('DIR', 'http://nen1090bank.nl/');
