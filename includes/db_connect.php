@@ -8,8 +8,8 @@
 
 
 $host = "localhost";
-$db_name = "nen1090";
-$username = "root";
+$db_name = "****";
+$username = "****";
 $password = "";
 
 try {
